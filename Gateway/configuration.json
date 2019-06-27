@@ -13,7 +13,7 @@
         "UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete", "Options" ]
       },
       {
-        "DownstreamPathTemplate": "/{everything}",
+        "DownstreamPathTemplate": "/vendas/{everything}",
         "DownstreamScheme": "http",
         "DownstreamHostAndPorts": [
           {
@@ -37,7 +37,7 @@
         "UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete", "Options" ]
       },
       {
-        "DownstreamPathTemplate": "/{everything}",
+        "DownstreamPathTemplate": "/api/produtos/{everything}",
         "DownstreamScheme": "http",
         "DownstreamHostAndPorts": [
           {
