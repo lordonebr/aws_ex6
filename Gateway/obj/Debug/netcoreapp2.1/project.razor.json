@@ -1,0 +1,18 @@
+{
+  "FilePath": "c:\\Users\\andre.santos\\OneDrive\\Faculdade\\POS Graduação - PUC\\04 - APIs e Web Services (AWS)\\Exercício Aula 06\\code\\Gateway\\Gateway.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 703
+  },
+  "RootNamespace": "Gateway",
+  "Documents": []
+}

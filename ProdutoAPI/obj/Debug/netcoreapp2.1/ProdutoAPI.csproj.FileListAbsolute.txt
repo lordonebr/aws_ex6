@@ -1,0 +1,42 @@
+C:\Users\1208719\Documents\ex6\ProdutoAPI\bin\Debug\netcoreapp2.1\ProdutoAPI.deps.json
+C:\Users\1208719\Documents\ex6\ProdutoAPI\bin\Debug\netcoreapp2.1\ProdutoAPI.runtimeconfig.json
+C:\Users\1208719\Documents\ex6\ProdutoAPI\bin\Debug\netcoreapp2.1\ProdutoAPI.runtimeconfig.dev.json
+C:\Users\1208719\Documents\ex6\ProdutoAPI\bin\Debug\netcoreapp2.1\ProdutoAPI.dll
+C:\Users\1208719\Documents\ex6\ProdutoAPI\bin\Debug\netcoreapp2.1\ProdutoAPI.pdb
+C:\Users\1208719\Documents\ex6\ProdutoAPI\obj\Debug\netcoreapp2.1\ProdutoAPI.csprojAssemblyReference.cache
+C:\Users\1208719\Documents\ex6\ProdutoAPI\obj\Debug\netcoreapp2.1\ProdutoAPI.csproj.CoreCompileInputs.cache
+C:\Users\1208719\Documents\ex6\ProdutoAPI\obj\Debug\netcoreapp2.1\ProdutoAPI.RazorAssemblyInfo.cache
+C:\Users\1208719\Documents\ex6\ProdutoAPI\obj\Debug\netcoreapp2.1\ProdutoAPI.RazorAssemblyInfo.cs
+C:\Users\1208719\Documents\ex6\ProdutoAPI\obj\Debug\netcoreapp2.1\ProdutoAPI.AssemblyInfoInputs.cache
+C:\Users\1208719\Documents\ex6\ProdutoAPI\obj\Debug\netcoreapp2.1\ProdutoAPI.AssemblyInfo.cs
+C:\Users\1208719\Documents\ex6\ProdutoAPI\obj\Debug\netcoreapp2.1\ProdutoAPI.RazorTargetAssemblyInfo.cache
+C:\Users\1208719\Documents\ex6\ProdutoAPI\obj\Debug\netcoreapp2.1\ProdutoAPI.dll
+C:\Users\1208719\Documents\ex6\ProdutoAPI\obj\Debug\netcoreapp2.1\ProdutoAPI.pdb
+C:\Users\andre.santos\OneDrive\Faculdade\POS Graduação - PUC\04 - APIs e Web Services (AWS)\Exercício Aula 06\ex6\ProdutoAPI\bin\Debug\netcoreapp2.1\ProdutoAPI.deps.json
+C:\Users\andre.santos\OneDrive\Faculdade\POS Graduação - PUC\04 - APIs e Web Services (AWS)\Exercício Aula 06\ex6\ProdutoAPI\bin\Debug\netcoreapp2.1\ProdutoAPI.runtimeconfig.json
+C:\Users\andre.santos\OneDrive\Faculdade\POS Graduação - PUC\04 - APIs e Web Services (AWS)\Exercício Aula 06\ex6\ProdutoAPI\bin\Debug\netcoreapp2.1\ProdutoAPI.runtimeconfig.dev.json
+C:\Users\andre.santos\OneDrive\Faculdade\POS Graduação - PUC\04 - APIs e Web Services (AWS)\Exercício Aula 06\ex6\ProdutoAPI\bin\Debug\netcoreapp2.1\ProdutoAPI.dll
+C:\Users\andre.santos\OneDrive\Faculdade\POS Graduação - PUC\04 - APIs e Web Services (AWS)\Exercício Aula 06\ex6\ProdutoAPI\bin\Debug\netcoreapp2.1\ProdutoAPI.pdb
+C:\Users\andre.santos\OneDrive\Faculdade\POS Graduação - PUC\04 - APIs e Web Services (AWS)\Exercício Aula 06\ex6\ProdutoAPI\obj\Debug\netcoreapp2.1\ProdutoAPI.csprojAssemblyReference.cache
+C:\Users\andre.santos\OneDrive\Faculdade\POS Graduação - PUC\04 - APIs e Web Services (AWS)\Exercício Aula 06\ex6\ProdutoAPI\obj\Debug\netcoreapp2.1\ProdutoAPI.csproj.CoreCompileInputs.cache
+C:\Users\andre.santos\OneDrive\Faculdade\POS Graduação - PUC\04 - APIs e Web Services (AWS)\Exercício Aula 06\ex6\ProdutoAPI\obj\Debug\netcoreapp2.1\ProdutoAPI.RazorAssemblyInfo.cache
+C:\Users\andre.santos\OneDrive\Faculdade\POS Graduação - PUC\04 - APIs e Web Services (AWS)\Exercício Aula 06\ex6\ProdutoAPI\obj\Debug\netcoreapp2.1\ProdutoAPI.RazorAssemblyInfo.cs
+C:\Users\andre.santos\OneDrive\Faculdade\POS Graduação - PUC\04 - APIs e Web Services (AWS)\Exercício Aula 06\ex6\ProdutoAPI\obj\Debug\netcoreapp2.1\ProdutoAPI.AssemblyInfoInputs.cache
+C:\Users\andre.santos\OneDrive\Faculdade\POS Graduação - PUC\04 - APIs e Web Services (AWS)\Exercício Aula 06\ex6\ProdutoAPI\obj\Debug\netcoreapp2.1\ProdutoAPI.AssemblyInfo.cs
+C:\Users\andre.santos\OneDrive\Faculdade\POS Graduação - PUC\04 - APIs e Web Services (AWS)\Exercício Aula 06\ex6\ProdutoAPI\obj\Debug\netcoreapp2.1\ProdutoAPI.RazorTargetAssemblyInfo.cache
+C:\Users\andre.santos\OneDrive\Faculdade\POS Graduação - PUC\04 - APIs e Web Services (AWS)\Exercício Aula 06\ex6\ProdutoAPI\obj\Debug\netcoreapp2.1\ProdutoAPI.dll
+C:\Users\andre.santos\OneDrive\Faculdade\POS Graduação - PUC\04 - APIs e Web Services (AWS)\Exercício Aula 06\ex6\ProdutoAPI\obj\Debug\netcoreapp2.1\ProdutoAPI.pdb
+C:\Users\andre.santos\OneDrive\Faculdade\POS Graduação - PUC\04 - APIs e Web Services (AWS)\Exercício Aula 06\code\ProdutoAPI\bin\Debug\netcoreapp2.1\ProdutoAPI.deps.json
+C:\Users\andre.santos\OneDrive\Faculdade\POS Graduação - PUC\04 - APIs e Web Services (AWS)\Exercício Aula 06\code\ProdutoAPI\bin\Debug\netcoreapp2.1\ProdutoAPI.runtimeconfig.json
+C:\Users\andre.santos\OneDrive\Faculdade\POS Graduação - PUC\04 - APIs e Web Services (AWS)\Exercício Aula 06\code\ProdutoAPI\bin\Debug\netcoreapp2.1\ProdutoAPI.runtimeconfig.dev.json
+C:\Users\andre.santos\OneDrive\Faculdade\POS Graduação - PUC\04 - APIs e Web Services (AWS)\Exercício Aula 06\code\ProdutoAPI\bin\Debug\netcoreapp2.1\ProdutoAPI.dll
+C:\Users\andre.santos\OneDrive\Faculdade\POS Graduação - PUC\04 - APIs e Web Services (AWS)\Exercício Aula 06\code\ProdutoAPI\bin\Debug\netcoreapp2.1\ProdutoAPI.pdb
+C:\Users\andre.santos\OneDrive\Faculdade\POS Graduação - PUC\04 - APIs e Web Services (AWS)\Exercício Aula 06\code\ProdutoAPI\obj\Debug\netcoreapp2.1\ProdutoAPI.csprojAssemblyReference.cache
+C:\Users\andre.santos\OneDrive\Faculdade\POS Graduação - PUC\04 - APIs e Web Services (AWS)\Exercício Aula 06\code\ProdutoAPI\obj\Debug\netcoreapp2.1\ProdutoAPI.csproj.CoreCompileInputs.cache
+C:\Users\andre.santos\OneDrive\Faculdade\POS Graduação - PUC\04 - APIs e Web Services (AWS)\Exercício Aula 06\code\ProdutoAPI\obj\Debug\netcoreapp2.1\ProdutoAPI.RazorAssemblyInfo.cache
+C:\Users\andre.santos\OneDrive\Faculdade\POS Graduação - PUC\04 - APIs e Web Services (AWS)\Exercício Aula 06\code\ProdutoAPI\obj\Debug\netcoreapp2.1\ProdutoAPI.RazorAssemblyInfo.cs
+C:\Users\andre.santos\OneDrive\Faculdade\POS Graduação - PUC\04 - APIs e Web Services (AWS)\Exercício Aula 06\code\ProdutoAPI\obj\Debug\netcoreapp2.1\ProdutoAPI.AssemblyInfoInputs.cache
+C:\Users\andre.santos\OneDrive\Faculdade\POS Graduação - PUC\04 - APIs e Web Services (AWS)\Exercício Aula 06\code\ProdutoAPI\obj\Debug\netcoreapp2.1\ProdutoAPI.AssemblyInfo.cs
+C:\Users\andre.santos\OneDrive\Faculdade\POS Graduação - PUC\04 - APIs e Web Services (AWS)\Exercício Aula 06\code\ProdutoAPI\obj\Debug\netcoreapp2.1\ProdutoAPI.RazorTargetAssemblyInfo.cache
+C:\Users\andre.santos\OneDrive\Faculdade\POS Graduação - PUC\04 - APIs e Web Services (AWS)\Exercício Aula 06\code\ProdutoAPI\obj\Debug\netcoreapp2.1\ProdutoAPI.dll
+C:\Users\andre.santos\OneDrive\Faculdade\POS Graduação - PUC\04 - APIs e Web Services (AWS)\Exercício Aula 06\code\ProdutoAPI\obj\Debug\netcoreapp2.1\ProdutoAPI.pdb

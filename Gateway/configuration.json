@@ -1,0 +1,53 @@
+{
+    "ReRoutes": [
+      {
+        "DownstreamPathTemplate": "/vendas/",
+        "DownstreamScheme": "http",
+        "DownstreamHostAndPorts": [
+          {
+            "Host": "127.0.0.1",
+            "Port": 3000
+          }
+        ],
+        "UpstreamPathTemplate": "/vendas/",
+        "UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete", "Options" ]
+      },
+      {
+        "DownstreamPathTemplate": "/{everything}",
+        "DownstreamScheme": "http",
+        "DownstreamHostAndPorts": [
+          {
+            "Host": "127.0.0.1",
+            "Port": 3000
+          }
+        ],
+        "UpstreamPathTemplate": "/vendas/{everything}",
+        "UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete", "Options" ]
+      },
+      {
+        "DownstreamPathTemplate": "/api/produtos/",
+        "DownstreamScheme": "http",
+        "DownstreamHostAndPorts": [
+          {
+            "Host": "127.0.0.1",
+            "Port": 6000
+          }
+        ],
+        "UpstreamPathTemplate": "/produtos/",
+        "UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete", "Options" ]
+      },
+      {
+        "DownstreamPathTemplate": "/{everything}",
+        "DownstreamScheme": "http",
+        "DownstreamHostAndPorts": [
+          {
+            "Host": "127.0.0.1",
+            "Port": 6000
+          }
+        ],
+        "UpstreamPathTemplate": "/produtos/{everything}",
+        "UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete", "Options" ]
+      }
+    ],
+    "GlobalConfiguration": { }
+  }
